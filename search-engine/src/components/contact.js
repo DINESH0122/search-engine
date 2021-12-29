@@ -5,7 +5,7 @@ const contact = () => {
     <div className='ui raised very padded text container segment' style={{marignTop:'80px'}}>
     <h1>Contact us </h1>
     <ol>
-      <li>Email: dineshsubramani0@gmail.com</li>
+      <li>Email: dineshsubramani0@gmail.com.</li>
       <li>Email: dineshsubramanian0122@gmail.com</li>
       <li>Mobile no : 9789504649</li>
       <li>State:Tamil Nadu </li>
